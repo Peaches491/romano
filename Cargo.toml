@@ -1,0 +1,14 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Daniel Miller <daniel@zoox.com>"]
+
+[dependencies]
+alga = "0.5.2"
+image = "0.16.0"
+lerp = "0.2.0"
+log = "0.3"
+nalgebra = "0.13.1"
+num = "0.1.40"
+simple-logging="1.0.1"
+num-traits = "0.1.40"
